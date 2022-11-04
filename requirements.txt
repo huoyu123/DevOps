@@ -62,7 +62,7 @@ attrs==17.4.0
 Automat==0.6.0
 constantly==15.1.0
 zope.interface==4.4.3
-Twisted==17.9.0
+Twisted==22.10.0
 asgiref==1.1.2
 daphne==1.4.2
 channels==1.1.8
